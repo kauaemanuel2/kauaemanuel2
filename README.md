@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=44FF55&width=435&lines=Ol%C3%A1%2C+Bem+vindos+ao+meu+github!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=44FF55&width=435&lines=Hello%2C+welcome+to+my+GitHub!)](https://git.io/typing-svg)
 <img src="https://i.giphy.com/qgQUggAC3Pfv687qPC.webp" alt="GIF" align="right" width="200">
 
 ### 👋Hey, I'm Kauã! 
